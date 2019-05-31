@@ -1,0 +1,10 @@
+{
+    
+        "env":{
+            "MONGO_USER":"Manivasagamsymbo",
+            "MONGO_PASSWORD":"ad6bxNgoedDYzOMo",
+            "MONG0_DEFAULT_DATABASE":"symbosium"
+            
+        }
+    
+}
