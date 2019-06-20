@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "MONGO_USER=Manivasagamsymbo MONGO_PASSWORD=ad6bxNgoedDYzOMo MONG0_DEFAULT_DATABASE=symbosium node app.js",
+    "start": "NODE_ENV=producion MONGO_USER=Manivasagamsymbo MONGO_PASSWORD=ad6bxNgoedDYzOMo MONG0_DEFAULT_DATABASE=symbosium node app.js",
     "start-server": "node app.js",
     "start:dev": "nodemon app.js"
   },
